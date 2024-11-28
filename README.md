@@ -1,4 +1,4 @@
-# mobile_ass3_nathan
+# mobile_assignment3_nathan
 
 A new Flutter project by
 Nathan Perez 100754066
